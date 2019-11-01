@@ -5,9 +5,9 @@ It represents the entire life cycle of a simple relational database, built in Or
 The presentation begins with a brief description of the company followed by the design concept using an entity relationship diagram and table mockups.
 
 ## Implementation and testing
-- Tables creation
-- Update of tables structure
-- Data insertion
-- Querying the database
+- Create tables in database
+- Update the structure of the tables
+- Insert data into tables
+- Test database using complex queries
 
 
